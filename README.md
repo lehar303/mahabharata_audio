@@ -7,7 +7,7 @@ This repository contains audio recordings generated from the Adiparva text. Unde
 ## Instructions
 - Requires SARVAM AI API. Load it into you .env file
 - Run boce_mb_scrap.py to scrap data
-- Run mahabharata.py to convert data to audio.
+- Run files to convert data to audio.
 
 
 ## Files
@@ -15,4 +15,5 @@ This repository contains audio recordings generated from the Adiparva text. Unde
 
 ## Notes
 - Source: source Adiparva text - https://bombay.indology.info/mahabharata/text/UD/MBh01.txt
+- Translation might not be accurate. This is not a learning source. 
 
