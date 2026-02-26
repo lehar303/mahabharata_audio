@@ -11,7 +11,7 @@ This repository contains audio recordings generated from the Adiparva text. Unde
 
 
 ## Files
-- /outputs/ — folder with .wav audio files (chapter-wise)
+- /outputs/ — folder with .wav audio files (verse-wise)
 
 ## Notes
 - Source: source Adiparva text - https://bombay.indology.info/mahabharata/text/UD/MBh01.txt
